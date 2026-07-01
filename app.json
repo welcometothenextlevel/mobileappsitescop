@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "SITESCOP",
+    "slug": "sitescop",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "sitescop",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "au.com.sitescop.inspections"
+    },
+    "android": {
+      "package": "au.com.sitescop.inspections",
+      "adaptiveIcon": {
+        "backgroundColor": "#123B5D"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
